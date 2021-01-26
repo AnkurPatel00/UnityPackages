@@ -1,0 +1,14 @@
+{
+  "name":"com.package.uiframework",
+  "version":"0.0.1",
+  "description":"com.package.uiframework",
+  "author":"Brainbasher",
+  "license":"ISC",
+  "displayName":"UIFramework",
+  "hideInEditor":false,
+  "repository" :
+   {
+    "type": "git",
+    "url": "https://github.com/AnkurPatel00/com.package.uiframework.git"
+   }
+}
